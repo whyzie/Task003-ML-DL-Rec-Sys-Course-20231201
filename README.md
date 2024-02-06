@@ -150,9 +150,30 @@ Maximize user engagement, increase revenue streams, and solidify Course4U's posi
   </table>
 
 # Conclussion
-We have built collaborative-filtering recommender system models  using supervised learning. 
+Our Content-Based Recommender System utilizes Unsupervised Learning to generate recommendations for user profile 733707 across various models:
+
+Recommendation based on users and courses
+<center>
+    <img src="https://i.imgur.com/FzTtCV3.png" width="600">
+<center>
+
+Recommendation based on course similarity
+<center>
+    <img src="https://i.imgur.com/zOjDMYN.png" width="600">
+<center>
+
+Recommendation based on clustering
+<center>
+    <img src="https://i.imgur.com/gs36cTJ.png" width="600">
+<center>
+
+Moreover, we have built collaborative-filtering recommender system models  using supervised learning. 
 
 To determine the best recommender system based on the RMSE data provided, we need to choose the model with the lowest RMSE value because RMSE measures the average deviation of predicted values from actual values. The lower the RMSE, the better the model's performance in terms of accuracy.
+
+<center>
+    <img src="https://i.imgur.com/aEdnWio.png" width="600">
+<center>
 
 <ul>Based on the given the models and RMSE values:
 <li>BaggingClassifier: 0.127622
